@@ -1,0 +1,4 @@
+# Project exclude paths
+/target/
+/.idea/
+/spring-r2dbc-tutorial.iml
